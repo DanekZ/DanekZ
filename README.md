@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey What's up Guys? 👋</h1>
 
 ###
 
@@ -7,6 +7,14 @@
 ###
 
 <p align="left">Hi, I’m Zidane Abbas Mallaniung, a graduate of Informatics Engineering. I’ve explored various fields such as data analysis, web development, and data entry.<br><br>To improve my skills, I’ve joined several online courses, including Dicoding and Udemy. I’ve also joined the Junior Web Development program by Kominfo.<br><br> I’m a disciplined and curious learner who enjoys working, learning new things, and growing through collaboration and experiences<br><br>✨ Start code since 2021<br>📚 I'm currently learning Data Analyst<br>🎯 Goals: Become Data Analyst</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanekZ&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=My%20Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanekZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2&custom_title=My%20Language%20Stats" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanekZ&radius=16&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
@@ -42,17 +50,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanekZ&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=My%20Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanekZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2&custom_title=My%20Language%20Stats" height="150" alt="languages graph"  />
 </div>
 
 ###
