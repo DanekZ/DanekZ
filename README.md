@@ -60,11 +60,6 @@
 
 <h2 align="left">Entertient Action</h2>
 
-###
-
-<img src="https://raw.githubusercontent.com/DanekZ/DanekZ/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DanekZ.DanekZ&"  />
